@@ -1,6 +1,6 @@
 # Reposistorio dos Desafios do Ignite
 
-## Dividido por desafios e os capítulos  
+## Dividido por branches(chapter_#/challenge_#)  
 
 Exemplo:
 
